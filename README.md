@@ -1,10 +1,9 @@
-# 🌈 k-progress
+# 🌈 k-progress-v3
 
 > A Vue plugin, linear progress bar.
 
 ![](https://img.shields.io/npm/v/k-progress-v3?color=success&style=flat-square)
 ![](https://img.shields.io/github/languages/top/xrkffgg/k-progress-v3?style=flat-square)
-![](https://img.shields.io/github/languages/code-size/xrkffgg/k-progress-v3?color=orange&style=flat-square)
 ![](https://img.shields.io/github/stars/xrkffgg/k-progress-v3?color=blueviolet&style=flat-square)
 ![](https://img.shields.io/github/license/xrkffgg/k-progress-v3?color=red&style=flat-square)
 ![](https://img.shields.io/npm/dt/k-progress-v3?color=ff69b4&style=flat-square)

@@ -1,6 +1,6 @@
 {
   "name": "k-progress-v3",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "./dist/k-progress.umd.min.js",
   "files": [
     "dist"
