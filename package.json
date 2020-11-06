@@ -1,12 +1,34 @@
 {
   "name": "k-progress-v3",
   "version": "0.1.0",
-  "private": true,
+  "main": "./dist/k-progress.umd.min.js",
+  "files": [
+    "dist"
+  ],
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "start": "yarn & vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "package": "vue-cli-service build --target lib --name k-progress ./src/components/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xrkffgg/k-progress-v3.git"
+  },
+  "author": "xrkffgg",
+  "homepage": "https://xrkffgg.github.io/Knotes/course/k-progress.html",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "keywords": [
+    "vue",
+    "components",
+    "progress",
+    "vue3"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xrkffgg/k-progress-v3/issues"
   },
   "dependencies": {
     "core-js": "^3.6.5",
