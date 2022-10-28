@@ -25,7 +25,7 @@ yarn add k-progress-v3
 ## 🔨 Begin Start
 ```js
 // main.js
-import KProgress from 'k-progress';
+import KProgress from 'k-progress-v3';
 
 const app = createApp(App);
 app
